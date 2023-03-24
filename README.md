@@ -35,6 +35,3 @@ I'm always eager to learn new things and expand my skillset. Right now, I'm part
 
 ## 📫 Contact Me
 Feel free to reach out to me if you have any suggestions or opportunities for collaboration. You can contact me via email at [nedojedly.o@gmail.com](mailto:nedojedly.o@gmail.com). Thanks for visiting my GitHub page!
-
-
-<img style='transform: scaleY(-1)' src="https://capsule-render.vercel.app/api?color=282a36&type=Waving&height=180&rotate=180">
