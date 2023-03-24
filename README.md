@@ -4,18 +4,23 @@
 
 <div style="display: flex; padding: 20px;">
   <div style="flex: 1; padding-right: 20px;">
-    <p>
-      Hi there! My name is Ondra and I'm an 18-year-old computer science student based in the Czech Republic. I'm passionate about programming and learning new things. I'm currently focusing on C/C++.
-    </p>
-    <p>
-      In my free time, I like to work on personal projects and experiment with different programming languages and technologies. I'm also an avid gamer and love to play all kinds of video games.
-    </p>
+    <div style="border: 1px solid #e6e6e6; padding: 10px;">
+      <div>
+    <br><br>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondranedo&langs_count=3&theme=dracula&hide_border=true&hide_title=true">
   </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondranedo&langs_count=3&theme=dracula&hide_border=true&hide_title=true">
-  </div>
+  <p>
+    Greetings! I am Ondra, an 18-year-old computer science scholar hailing from the Czech Republic. I harbor a fervent passion for programming and relish the opportunity to broaden my horizons through continuous learning. My present focus is on honing my skills in the domain of C/C++ programming.
+  </p>
+  <p>
+    During my leisure hours, I revel in tinkering with personal projects and exploring diverse technological avenues. I'm constantly on the lookout for new challenges that will help me grow as a programmer. Additionally, I am an avid gamer, and my penchant for video games extends across a wide spectrum.
+  </p>
 </div>
+ 
+</div>
+<br><br>
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,linux,md,neovim,raspberrypi,visualstudio,vscode)](https://skillicons.dev)
 
 
 ## 🔭 Current Project~~s~~
