@@ -20,7 +20,7 @@
 </div>
 <br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,linux,git,haskell,latex,md,neovim,raspberrypi,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,rust,linux,git,haskell,latex,md,py)](https://skillicons.dev)
 
 
 ## 🔭 Current Project~~s~~
