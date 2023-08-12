@@ -24,14 +24,4 @@
 
 
 ## 🔭 Current Project~~s~~
-- **RAL** *private* Game engine developed with my friends.
-
-
-## 🌱 Eager to Learn
-I'm always eager to learn new things and expand my skillset. Right now, I'm particularly interested in learning Rust and Haskell.
-
-
-
-
-## 📫 Contact Me
-Feel free to reach out to me if you have any suggestions or opportunities for collaboration. You can contact me via email at [nedojedly.o@gmail.com](mailto:nedojedly.o@gmail.com). Thanks for visiting my GitHub page!
+- **ZuziMAX** *private* Sound synthesizer developed with my friends.
