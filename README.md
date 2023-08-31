@@ -13,7 +13,7 @@
     Greetings! I am Ondra, an 18-year-old computer science scholar hailing from the Czech Republic. I harbor a fervent passion for programming and relish the opportunity to broaden my horizons through continuous learning. My present focus is on honing my skills in the domain of C/C++ programming.
   </p>
   <p>
-    During my leisure hours, I revel in tinkering with personal projects and exploring diverse technological avenues. I'm constantly on the lookout for new challenges that will help me grow as a programmer. Additionally, I am an avid gamer, and my penchant for video games extends across a wide spectrum.
+    During my leisure hours, I revel in tinkering with personal projects and exploring diverse technological avenues. I'm constantly on the lookout for new challenges that will help me grow as a programmer. Additionally, I am an avid gamer, and my penchant for video games extends across a wide spectrum of torture (Gregtech 😭). 
   </p>
 </div>
  
