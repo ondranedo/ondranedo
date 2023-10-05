@@ -6,4 +6,4 @@
 
 
 ## 🔭 Current Project~~s~~
-- **ZuziMAX** *private* Sound synthesizer developed with my friends.
+- **r8ge**
